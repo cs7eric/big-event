@@ -80,7 +80,7 @@ import avatar from '@/assets/default.png'
       <el-main>
         <router-view></router-view>
       </el-main>
-      <el-footer>大事件 ©2023 Created by 黑马程序员</el-footer>
+      <el-footer>大事件 ©2023 Created by cccs7</el-footer>
     </el-container>
   </el-container>
 </template>
